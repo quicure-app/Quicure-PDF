@@ -1,5 +1,5 @@
 ## Quicure PDF 
-### an offline, privacy-first PDF toolkit for Windows.
+### An offline, privacy-first PDF toolkit for Windows.
 
 ### Features
 - 📄 Merge PDF — Combine multiple PDFs into one
